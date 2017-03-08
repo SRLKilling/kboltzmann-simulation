@@ -22,4 +22,5 @@ With `r`, you can reset the max counters used to colour temperatures, and densit
 To fasten computing, you can choose to toggle displaying using `d`, or just toggle particles with `p`.
 
 Here is a little video of an evolved simulation :
+
 ![Demo of the program](https://media.giphy.com/media/sGIZ7fYEFxd3a/giphy.gif)
